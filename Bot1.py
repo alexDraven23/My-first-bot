@@ -71,5 +71,3 @@ def callback_worker(call):
     elif call.data == "no": #переспрашиваем
         ...
 bot.polling(none_stop=True, interval=0)
-
-
