@@ -9,4 +9,4 @@ Install:
   
 
 Launch:
-  python3 Bot1.py
+  python3 Bot1.py 
