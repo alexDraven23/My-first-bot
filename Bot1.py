@@ -5,7 +5,7 @@ import telebot
 from telebot import types
 
 token = config.TGToken
-bot = telebot.TeleBot(token)
+bot = 'telebot.TeleBot(token)'
 keyboard1 = telebot.types.ReplyKeyboardMarkup(True, True)
 keyboard1.row('Привет', '/help')
 
