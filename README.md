@@ -7,8 +7,10 @@
  git clone SSH 
  cd My-first-bot 
  nano config.py
+ 
+ config.py:
+ TGToken = "secret_token_generated_for_you_by_Telegram_BotFather"
  ```
- In config you should write your Bot's token
  
 ## Launch:
   ```python
