@@ -7,7 +7,8 @@
  git clone SSH 
  cd My-first-bot 
  nano config.py
-```
+ ```
+ In config you should write your Bot's token
  
 ## Launch:
   ```python
